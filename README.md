@@ -33,8 +33,7 @@
 
 ### 📈 GitHub Analytics &nbsp;
 
-  ![Link's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rsl&show_icons=true&theme=dark&count_private=true)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=4rsl&theme=dark)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect &nbsp;
 
