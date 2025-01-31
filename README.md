@@ -33,7 +33,7 @@
 
 ### 📈 GitHub Analytics &nbsp;
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=4rsl&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=4rsl&theme=dark)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect &nbsp;
 
