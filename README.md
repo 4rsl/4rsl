@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="http://github.com/4rsl">Link</a> 👋🏾</h1>
-<p align="center">🌍 Social Advocate | 🎺 Euphonist | 🤖 NLP Enthusiast</p>
+<p align="center">🌍 Social Advocate | 🎺 Euphonist | 🤖 NLP Reseacher</p>
 
 
 ### 🛠 Skills &nbsp;
@@ -8,6 +8,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
 
 - **Frameworks & Libraries:** &nbsp;
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
